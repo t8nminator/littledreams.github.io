@@ -1,0 +1,23 @@
+# Site settings
+title: Little Dreams
+email: littledreams@gmail.com
+url: https://littledreams.app
+description: "Enter the land of the dreams where anything is possible. Fun stories and games are waiting for you!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#550084'
+  links: '#219ab3'
+  purple: '#550084'
+
+# Footer settings
+footer: Little Dreams by mochitoon
+
+screens:
+  - img: img/screenshot01.jpg
+  - img: img/screenshot02.jpg
+  - img: img/screenshot03.jpg
+
+# Build settings
+markdown: kramdown
+permalink: pretty
